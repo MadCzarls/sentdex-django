@@ -3,6 +3,8 @@
 ### Repository created codeing-along with sentdex in:
 https://www.youtube.com/watch?v=yD0_1DPmfKM
 
+All credits to him for this awesome tutorial.
+
 Some changes/additions made to this tutorial:
 - added virtualenv - https://virtualenv.pypa.io/en/latest/
 - moved all secret/custom/unique-per-workstation data to external file using python-decouple - check it out here: https://pypi.org/project/django-decouple/
