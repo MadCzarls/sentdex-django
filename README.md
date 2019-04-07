@@ -15,7 +15,8 @@ In root directory create file '.env' (DOT-ENV) and put inside:
 
 example file:
 
-> SECRET_KEY = 'k#gbxd4-(6nf_@lo=1$k_2$a%cqrs0^sio1nby7b6bu1n06rrq'     
+> SECRET_KEY = 'k#gbxd4-(6nf_@lo=1$k_2$a%cqrs0^sio1nby7b6bu1n06rrq'
+<br /> 
 > DEBUG=True
 
 - use python from virtualenv in repository; to activate it run in root dir:
